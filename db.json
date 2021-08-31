@@ -1,5 +1,14 @@
 {
-    "name": "The Marie-Burning Bird",
-    "description": "The mythical creature from Mexican folklore", 
-    "image": "https://gateway.pinata.cloud/ipfs/QmdYQHXcR2FdpiWwYUC1VVvLgCES2eMRBpYLbbiGrstFNC",
+  "posts": [
+    {
+      "id": 1,
+      "name": "The Marie-Burning Bird",
+      "description": "The mythical creature from Mexican folklore", 
+      "image": "https://gateway.pinata.cloud/ipfs/QmdYQHXcR2FdpiWwYUC1VVvLgCES2eMRBpYLbbiGrstFNC",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
